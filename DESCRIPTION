@@ -1,0 +1,18 @@
+Package: ARIMAANN
+Type: Package
+Title: Time Series Forecasting using ARIMA-ANN Hybrid Model
+Version: 0.1.0
+Authors@R: c(person("Ramasubramanian ", "V.", role = c("aut", "ctb")),
+            person("Mrinmoy", "Ray", role = c("aut", "cre"),
+                     email = "mrinmoy4848@gmail.com"))
+Depends: R (>= 2.3.1), stats,forecast, tseries
+Description: Testing, Implementation, and Forecasting of the ARIMA-ANN hybrid model. The ARIMA-ANN hybrid model combines the distinct strengths of the Auto-Regressive Integrated Moving Average (ARIMA) model and the Artificial Neural Network (ANN) model for time series forecasting.For method details see Zhang, GP (2003) <doi:10.1016/S0925-2312(01)00702-0>.
+Encoding: UTF-8
+License: GPL-3
+NeedsCompilation: no
+Packaged: 2022-10-12 14:07:24 UTC; pc
+Author: Ramasubramanian V. [aut, ctb],
+  Mrinmoy Ray [aut, cre]
+Maintainer: Mrinmoy Ray <mrinmoy4848@gmail.com>
+Repository: CRAN
+Date/Publication: 2022-10-13 17:42:37 UTC

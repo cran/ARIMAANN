@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("forecast", "auto.arima")
+importFrom("forecast", "nnetar")
+importFrom("forecast", "forecast")
+importFrom("tseries", "terasvirta.test")
+importFrom("stats", "as.ts", "fitted", "pnorm")
